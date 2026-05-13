@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sserdarb.github.io/resources-n4w61y/sitemap.xml
